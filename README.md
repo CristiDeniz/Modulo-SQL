@@ -1,6 +1,6 @@
 # Modulo-SQL
-### El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su ambiente, a principios de año presentó su nuevo menú, por lo que a nos ha pedido un análisis para conocer sus
-áreas de oportunidad.
+### El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su ambiente, a principios de año presentó su nuevo menú, por lo que a nos ha pedido un análisis para conocer sus áreas de oportunidad.
+
 ## El restaurante ofrece variedad de patillos de origen americano, asiatico, italiano y mexincano.
 ### El restaurante a registrado ventas totales en tres meses de operación de 159,217.90
 ![image](https://github.com/user-attachments/assets/dfbc7500-b0e8-4ce0-b1e1-1075f357afb7)
