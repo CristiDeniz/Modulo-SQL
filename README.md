@@ -1,7 +1,7 @@
 # Modulo-SQL
 ### El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su ambiente, a principios de año presentó su nuevo menú, por lo que a nos ha pedido un análisis para conocer sus áreas de oportunidad.
 
-## El restaurante ofrece variedad de patillos de origen americano, asiatico, italiano y mexincano.
+## El restaurante ofrece variedad de patillos de origen americano, asiatico, italiano y mexicano.
 ### El restaurante a registrado ventas totales en tres meses de operación de 159,217.90
 ![image](https://github.com/user-attachments/assets/dfbc7500-b0e8-4ce0-b1e1-1075f357afb7)
 
@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/8764406f-d111-4d52-adac-a9eccedb2fba)
 
 ### Los platillos con mayor ingreso según la ventas registradas han sido de origen italiano, mientras que los platillos americanos han dejado el menor ingreso, esto sin tomar en cuenta costos, una de las razones se debe a que la comida italiana es más costosa que el resto de las categorias.
-![image](https://github.com/user-attachments/assets/2439c306-74e3-48a1-8cc7-c7ad44029286
+![image](https://github.com/user-attachments/assets/6b4ec8ec-f5c2-4460-af7e-09f1e47351d8)
 
 ### Tomando en cuento el costo de cada platillo se puede determinar que en el lugar podemos encontrar una varidad de platillos a un precio accesible, ya que cuenta con un amplio menú en el cuál podrán encontrar snacks hasta platillos más elaborados.
 ![image](https://github.com/user-attachments/assets/52409738-5775-4373-aad6-23d338d3a97a)
